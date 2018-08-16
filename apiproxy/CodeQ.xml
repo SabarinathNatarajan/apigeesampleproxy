@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="15" name="CodeQ">
+    <Basepaths>/enecopingproxy</Basepaths>
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1533879587116</CreatedAt>
+    <CreatedBy>s.natarajan@devon.nl</CreatedBy>
+    <Description>invoking a sample backend for demonstration</Description>
+    <DisplayName>enecoPingProxy</DisplayName>
+    <LastModifiedAt>1534396251294</LastModifiedAt>
+    <LastModifiedBy>s.natarajan@devon.nl</LastModifiedBy>
+    <ManifestVersion>SHA-512:91fbb5ce8d32ab82ea9413a480055b37667db1af4d9399f67deab813e981f1f08f4b25ae4cd5652cf3eaec8be7066c8132af347ad738048a726e6f9a9ec31792</ManifestVersion>
+    <Policies>
+        <Policy>Basic-Authentication-1</Policy>
+    </Policies>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources/>
+    <Spec></Spec>
+    <TargetServers/>
+    <TargetEndpoints>
+        <TargetEndpoint>default</TargetEndpoint>
+    </TargetEndpoints>
+</APIProxy>

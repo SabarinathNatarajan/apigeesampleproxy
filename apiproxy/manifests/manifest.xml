@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Manifest name="manifest">
-    <Policies/>
+    <Policies>
+        <VersionInfo resourceName="Basic-Authentication-1" version="SHA-512:f9fef917bbdeaf5bfdb0195fb8cd22cad00b18adcb2e50f1db3cf6dc167480e4559bb43cc731281083f03f62dfd5f7472cc64da918819562b5377bfabc271aeb"/>
+    </Policies>
     <ProxyEndpoints>
-        <VersionInfo resourceName="default" version="SHA-512:087f84803d4eba3b26a841f645c61fbcc239a17f24600defc7bcff18743044cdeed0337076a5b15564c9eb1241eaf5e4cb52f45f3114a6ecce74e6933818274e"/>
+        <VersionInfo resourceName="default" version="SHA-512:6a264a3f803075a715ab07871dfeb5db15a18374238b46cd15be1a895ac998f2d430b467ef90e0935a9798304939e76f2d219d4b20e23ae27fcadc4106d0b9ae"/>
     </ProxyEndpoints>
     <Resources/>
     <SharedFlows/>
     <TargetEndpoints>
-        <VersionInfo resourceName="default" version="SHA-512:76aca630588f41700d0b66b0dcc1905af9af75309ad80d7a42335cdfb5243365f6a6c0b250fb01ffeca4eaa4c100adbc68600d04bbd00528d16c362e3190d414"/>
+        <VersionInfo resourceName="default" version="SHA-512:4687c35fce6c222d37a7ce9ebdcc4dff37b08c0c3f7ff06c1670a65347cca77611efff2dd1f0a607929812c559cc520a22f29779f29a13ddbca78ac18d23f83f"/>
     </TargetEndpoints>
 </Manifest>
